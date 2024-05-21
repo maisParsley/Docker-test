@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
+//using Microsoft.EntityFrameworkCore.SqlServer;
 
 using var db = new BloggingContext();
+db.Database.Migrate();
 
 // Note: This sample requires the database to be created before running.
 Console.WriteLine($"Database path: {db.DbPath}.");

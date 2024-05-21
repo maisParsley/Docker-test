@@ -121,3 +121,4 @@
 /Users/qristinebaramidze/Desktop/EFGetStarted/obj/Release/net8.0/EFGetStarted.pdb
 /Users/qristinebaramidze/Desktop/EFGetStarted/obj/Release/net8.0/EFGetStarted.genruntimeconfig.cache
 /Users/qristinebaramidze/Desktop/EFGetStarted/obj/Release/net8.0/ref/EFGetStarted.dll
+/Users/qristinebaramidze/Desktop/EFGetStarted/obj/Release/net8.0/EFGetStarted.sourcelink.json
